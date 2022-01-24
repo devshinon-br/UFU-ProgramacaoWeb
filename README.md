@@ -1,6 +1,6 @@
 # The project lab4
 ## ***UFU college activity***
-### This project is finished
+### This project is in progress
 
 The purpose of this application is to create a simple web application based on the spring framework.
 
